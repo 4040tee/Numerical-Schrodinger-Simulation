@@ -1,4 +1,4 @@
-﻿# Numerical Simulation of the Schrodinger Equation
+﻿# Numerical Simulation of the Schrodinger Equation Utilising the FTCS and Crank-Nicholson Methods
 
 ## Introduction
 
