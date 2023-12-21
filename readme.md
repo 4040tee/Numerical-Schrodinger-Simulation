@@ -1,6 +1,31 @@
 ﻿## Introduction
 
-...
+This application produces a simulation of the Schrodinger equation via numerical integration. The two methods employed are the FTCS method, and the Crank Nicholson method. The important aspect of this implementation of the simulation is that it utilises matrix algebra in order to execute the methods allowing for a greater range of stable solutions, though in the case of the Schrodinger equation these methods are not unconditionally stable. These methods fall under the broader topic of numerical analysis, which is the study of numerical approximations of problems in continuous mathematics through the employment of algorithms. This field of study is heavily utilised in the domains of scientific computing, quantitative finance, and mathematical optimization. Further technical details regarding each method and the underlying numerical computations involved are available in the following documentation.
+
+The Schrödinger equation is a fundamental linear partial differential equation in quantum mechanics that helps us understand how particles, like electrons, behave on a very small scale. It is the quantum equivalent of the commonly-known Newtons Laws, and Conseration of Energy in Classical Mechanics in that it is meant to predict the behaviour of dynamical systems. 
+
+Instead of assuming particles as spherical units, quantum mechanics uses the concept of a "wave function" to describe the likelihood of finding a particle in different places. The Schrödinger equation essentially tells us how this wave function changes with time or, in a stationary case, how it relates to the energy of the particle. 
+
+The time-dependent Schrödinger equation, for a single non-relativistic particle, is given by:
+
+�ℏ∂∂�Ψ(�,�)=�^Ψ(�,�),iℏ∂t∂​Ψ(r,t)=H^Ψ(r,t),
+
+where:
+
+-   �i is the imaginary unit,
+-   ℏℏ is the reduced Planck constant,
+-   Ψ(�,�)Ψ(r,t) is the wave function representing the quantum state of the system at position �r and time �t,
+-   �^H^ is the Hamiltonian operator, which represents the total energy of the system.
+
+The time-independent Schrödinger equation, often derived from the time-dependent form, is used to find the stationary states of a quantum system, where the wave function does not depend explicitly on time:
+
+�^Ψ(�)=�Ψ(�),H^Ψ(r)=EΨ(r),
+
+where:
+
+-   �E is the energy eigenvalue associated with the stationary state.
+
+
 
 ## Contents:
 
@@ -12,7 +37,8 @@
 
 ## Documentation:
 
-  
+The following is an explanation of each function comprising the simulation, including a brief description, parameters, and return values.
+
 
 ### sch\_eqn(nspace, ntime, tau, method='ftcs', length=200, potential = [], wparam = [10, 0, 0.5])
 
@@ -98,7 +124,9 @@ Array of three values which function as constant coefficients in the gaussian in
 
   
 
-Numerical integration of Schrodinger Equation: 2-D Array Coordinates of solution’s spatial grid points: 1-D Array Times corresponding to integration results: 1-D Array
+Numerical integration of Schrodinger Equation: 2-D Array Coordinates of solution’s spatial grid points: 1-D Array 
+
+Times corresponding to integration results: 1-D Array
 
   
 
