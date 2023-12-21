@@ -18,7 +18,7 @@ Instead of assuming particles as spherical units, quantum mechanics uses the con
 
   
 
-## Documentation:
+## 1. Documentation:
 
 The following is an explanation of each function comprising the simulation, including a brief description, parameters, and return values.
 
@@ -667,7 +667,7 @@ Probability Density Plot: Matplotlib.Pyplot figure
 
   
 
-## Examples:
+## 2. Examples:
 
   
 
