@@ -1,4 +1,6 @@
-﻿## Introduction
+﻿# Numerical Simulation of the Schrodinger Equation
+
+## Introduction
 
 This application produces a simulation of the Schrodinger equation via numerical integration. The two methods employed are the FTCS method, and the Crank Nicholson method. The important aspect of this implementation of the simulation is that it utilises matrix algebra in order to execute the methods allowing for a greater range of stable solutions, though in the case of the Schrodinger equation these methods are not unconditionally stable. These methods fall under the broader topic of numerical analysis, which is the study of numerical approximations of problems in continuous mathematics through the employment of algorithms. This field of study is heavily utilised in the domains of scientific computing, quantitative finance, and mathematical optimization. Further technical details regarding each method and the underlying numerical computations involved are available in the following documentation.
 
