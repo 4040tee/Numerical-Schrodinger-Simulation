@@ -6,25 +6,6 @@ The Schrödinger equation is a fundamental linear partial differential equation 
 
 Instead of assuming particles as spherical units, quantum mechanics uses the concept of a "wave function" to describe the likelihood of finding a particle in different places. The Schrödinger equation essentially tells us how this wave function changes with time or, in a stationary case, how it relates to the energy of the particle. 
 
-The time-dependent Schrödinger equation, for a single non-relativistic particle, is given by:
-
-�ℏ∂∂�Ψ(�,�)=�^Ψ(�,�),iℏ∂t∂​Ψ(r,t)=H^Ψ(r,t),
-
-where:
-
--   �i is the imaginary unit,
--   ℏℏ is the reduced Planck constant,
--   Ψ(�,�)Ψ(r,t) is the wave function representing the quantum state of the system at position �r and time �t,
--   �^H^ is the Hamiltonian operator, which represents the total energy of the system.
-
-The time-independent Schrödinger equation, often derived from the time-dependent form, is used to find the stationary states of a quantum system, where the wave function does not depend explicitly on time:
-
-�^Ψ(�)=�Ψ(�),H^Ψ(r)=EΨ(r),
-
-where:
-
--   �E is the energy eigenvalue associated with the stationary state.
-
 
 
 ## Contents:
