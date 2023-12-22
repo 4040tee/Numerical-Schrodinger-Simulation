@@ -675,7 +675,7 @@ code: 5x5 tridiagonal matrix, with 2 on main diagonal, 1 on lower and upper diag
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.001.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.001.png)
 
   
 
@@ -683,7 +683,7 @@ output:
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.002.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.002.png)
 
   
 
@@ -691,7 +691,7 @@ code: 5x5 hamiltonian matrix with zero potentials
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.003.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.003.png)
 
   
 
@@ -699,7 +699,7 @@ output:
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.004.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.004.png)
 
   
 
@@ -707,7 +707,7 @@ code: spectral radius of above hamiltonian
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.005.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.005.png)
 
   
 
@@ -715,7 +715,7 @@ output:
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.006.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.006.png)
 
   
 
@@ -723,7 +723,7 @@ code: 10 valued gaussian wave function
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.007.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.007.png)
 
   
 
@@ -731,7 +731,7 @@ output:
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.008.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.008.png)
 
   
 
@@ -739,7 +739,7 @@ code: numerical integration of Schrodinger equation using Crank-Nicholson method
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.009.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.009.png)
 
   
 
@@ -747,7 +747,7 @@ output:
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.010.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.010.png)
 
   
 
@@ -755,11 +755,11 @@ code: plot of wave function of numerical integration of Schrodinger Equation usi
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.011.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.011.png)
 
   
 
-output: ![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.012.jpeg)
+output: ![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.012.jpeg)
 
   
 
@@ -767,27 +767,27 @@ code: probability density plot of numerical integration of numerical integration
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.013.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.013.png)
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.014.jpeg)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.014.jpeg)
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.015.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.015.png)
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.016.png)code: stable FTCS numerical integration of Schrodinger Equation, using find\_stable\_tau function to identify stable value of Tau or Time Step
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.016.png)code: stable FTCS numerical integration of Schrodinger Equation, using find\_stable\_tau function to identify stable value of Tau or Time Step
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.017.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.017.png)
 
   
 
-![](Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.018.png)
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.018.png)
 
   
 
