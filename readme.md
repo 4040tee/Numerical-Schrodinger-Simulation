@@ -779,10 +779,12 @@ code: probability density plot of numerical integration of numerical integration
 
   
 
-![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.016.png)code: stable FTCS numerical integration of Schrodinger Equation, using find\_stable\_tau function to identify stable value of Tau or Time Step
+![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.016.png)
+
+
+code: stable FTCS numerical integration of Schrodinger Equation, using find\_stable\_tau function to identify stable value of Tau or Time Step
 
   
-
 ![](readme/Aspose.Words.826c555f-a5c1-4aca-972f-e9c93cf32e04.017.png)
 
   
